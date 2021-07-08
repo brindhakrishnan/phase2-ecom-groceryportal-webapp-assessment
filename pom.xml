@@ -37,11 +37,11 @@
 			<version>8.0.25</version>
 		</dependency>
 		
-		<!-- security dependency >
+		<!-- security dependency -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency-->
+		</dependency>
 		
 		<!-- Thyme Leaf dependency -->
 		<dependency>
@@ -55,6 +55,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
